@@ -1,5 +1,7 @@
 # Expense-Tracker
 
+<br>
+It is responsive on any screen devices so you can access it on any device :)
 <hr>
 
 ## Working App can be found here
