@@ -1,4 +1,4 @@
-# Expense-Tracker
+# Expense Tracker
 Expense Tracker is an expenses tracking web App for tracking your daily expenses in seconds. You can use it in your daily life or you can use it for your rough calculations of your shopping. So don't forget to use it next time when you are spending and saving!!
 <br><br>
 It is responsive on any screen devices so you can access it on any device :)
