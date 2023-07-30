@@ -17,7 +17,7 @@ https://expense-tracker-webb.vercel.app/
 
  <hr>
 
-## Demo 
+## Screenshots 
 
 <hr>
 
